@@ -1,4 +1,4 @@
 ## Table of contents
-Background
-Project Title
-Introduction
+1. Background
+2. Project Title
+3. Introduction
